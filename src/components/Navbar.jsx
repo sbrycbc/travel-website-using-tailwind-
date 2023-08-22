@@ -35,7 +35,7 @@ const Navbar = () => {
                 </ul> 
                 <div className='hidden md:flex'>
                 <BsPerson size={20}/>
-                <BiSearch size={20}/>
+                <BiSearch className='mr-2' size={20}/>
                 </div>
 
                 {/* Hamburger Menu */}
