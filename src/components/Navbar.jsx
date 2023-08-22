@@ -22,11 +22,11 @@ const Navbar = () => {
     setLogo(!logo)
   }
   return (
-    <div className='flex justify-between items-center h-20 px-4'>
+    <div className='flex w-full justify-between items-center h-20 px-4 absolute z-10 text-green-200'>
          <div >
             <h1 onClick={handleNaw} className= {logo ? 'hidden' : 'block'}>BEACHES!!!!</h1>     
          </div>
-                <ul className='hidden md:flex'>
+                <ul className='hidden md:flex text-yellow-50 font-[500]'>
                     <li>Home</li>
                     <li>Destinations</li>
                     <li>Travel</li>
