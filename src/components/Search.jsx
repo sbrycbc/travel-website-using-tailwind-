@@ -28,7 +28,7 @@ const Search = () => {
                 </button>
                 <div>
                     <h3 className='py-2'>LEADING SERVICE</h3>
-                    <p className='py-1'>ALL-INCLUSIVE COMPANY FOR 20 YEARS IN-A-ROW</p> 
+                    <p className='py-1 px-1'>ALL-INCLUSIVE COMPANY FOR 20 YEARS IN-A-ROW</p> 
                 </div>
             </div>
 
@@ -38,14 +38,30 @@ const Search = () => {
                 </button>
                 <div>
                     <h3 className='py-2'>LEADING SERVICE</h3>
-                    <p className='py-1'>ALL-INCLUSIVE COMPANY FOR 20 YEARS IN-A-ROW</p> 
+                    <p className='py-1 px-1'>ALL-INCLUSIVE COMPANY FOR 20 YEARS IN-A-ROW</p> 
                 </div>
             </div>
+        </div>
+        </div>
 
-            <div></div>
+        <div>
+            <div className='border text-center'>
+              <p className='pt-2'>GET AN ADDITIONAL 10% OFF</p>
+              <p className='py-4'>12 HOURS LEFT</p>
+              <p className='bg-gray-800 text-gray-200 py-2'>BOOK NOW AND SAVE</p>
+            </div>
+            <form>
+            <div className='flex flex-col my-2'>
+                  <label>Destination</label>
+                  <select className='border rounded-md p-2'>
+                      <option>Grande Antigua</option>
+                      <option>Key West</option>
+                      <option>Maldives</option>
+                      <option>Cozumel</option>
+                  </select>
+              </div>
+            </form>
         </div>
-        </div>
-        <div>right</div>
     </div>
   )
 }
