@@ -5,7 +5,7 @@ Dieses Projekt enthält eine einfache Website mit einem Reise-Thema. Das Projekt
 ## Vorschau and Deployment Links
 
 
-- [Vercel Link von Travel Website](https://travel-website-using-tailwind-css.vercel.app/
+- [Vercel Link von Travel Website](https://travel-website-using-tailwind-css.vercel.app/)
 
 
 
