@@ -1,5 +1,5 @@
 import React from 'react'
-import {RiCustomerService2Line, RiCustomerService2Fill } from 'react-icons/ri';
+import {RiCustomerService2Line} from 'react-icons/ri';
 import { MdOutlineModeOfTravel } from 'react-icons/md';
 
 
