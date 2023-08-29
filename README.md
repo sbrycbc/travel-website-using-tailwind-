@@ -5,7 +5,7 @@ Dieses Projekt enthält eine einfache Website mit einem Reise-Thema. Das Projekt
 ## Vorschau and Deployment Links
 
 
-- [Vercel Link von Travel Website](https://travel-website-using-tailwind-css.vercel.app/
+- [Vercel Link von Travel Website](https://travel-website-using-tailwind-css.vercel.app/)
 
 
 
@@ -25,12 +25,12 @@ Dieses Projekt enthält eine einfache Website mit einem Reise-Thema. Das Projekt
 
 2. Klonen Sie das kopierte Projekt auf Ihren Computer:
 
-      git clone https://github.com/sbrycbc/travel-website-using-tailwind-css
+       git clone https://github.com/sbrycbc/travel-website-using-tailwind-css
 
 
 3. Navigieren Sie zum Projektordner:
 
-      cd TRAVEL-WEBSITE
+       cd TRAVEL-WEBSITE
 
 
 4. Öffnen Sie die Webseite, indem Sie entweder einen HTTP-Server verwenden oder die `index.html`-Datei direkt in Ihrem Browser öffnen.
