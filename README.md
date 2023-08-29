@@ -2,7 +2,14 @@
 
 Dieses Projekt enthält eine einfache Website mit einem Reise-Thema. Das Projekt wurde erstellt, um die Bibliothek [Tailwind CSS](https://tailwindcss.com/) zu erlernen und anzuwenden.
 
+## Vorschau and Deployment Links
 
+
+- [Vercel Link von Travel Website](https://travel-website-using-tailwind-css.vercel.app/
+
+
+
+![Alt Text](./src/assets/video/strand.gif) :)
 
 
 ## Funktionen
@@ -50,11 +57,6 @@ Wenn Sie zum Projekt beitragen möchten, können Sie die folgenden Schritte befo
 
 
 5. Erstellen Sie über GitHub eine Pull-Anfrage (Pull Request) im Original-Repository.
-
-
-## Vorschau
-
-![Alt Text](./src/assets/video/strand.gif) :)
 
 
 ### Viel Spaß beim Coden! (Happy Coding!)
