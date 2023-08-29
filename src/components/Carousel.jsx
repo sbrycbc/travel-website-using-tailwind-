@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+import React, { useState } from 'react'
 
 import { BsArrowLeftSquareFill, BsArrowRightSquareFill } from 'react-icons/bs';
 
@@ -49,18 +49,20 @@ const Carousel = () => {
         onClick={nextSlide}
         className='absolute top-[50%] text-3xl text-white cursor-pointer right-8'
       />
-      {sliderData.map((item, index) => (
-      <div className={`carousel-item ${index === slide ? 'opacity-100' : 'opacity-0'}`} key={index}>
-    {index === slide && (
+         {sliderData.map((item, index) => (
+         <div className={`carousel-item ${index === slide ? 'opacity-100' : 'opacity-0'}`} key={index}>
+           {index === slide && (
       
-        <img className='w-full' src={item.url} alt='/'/>
-    
+        <img className='w-full' src={item.url} alt='/'/>   
     )}
   </div>
 ))}
     </div>
   );
 };
+
+
+
 
 
 export default Carousel

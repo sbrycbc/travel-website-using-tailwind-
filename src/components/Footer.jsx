@@ -6,10 +6,6 @@ import {
     FaPinterest,
     FaYoutube,
   } from 'react-icons/fa';
-  
-
-
-
 
 const Footer = () => {
   return (
